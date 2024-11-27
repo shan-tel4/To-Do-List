@@ -103,7 +103,8 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background-image: url(/assets/images/check-mark.png); 
+    background-image: url('https://shan-tel4.github.io/to-do-list/assets/images/check-mark.png');
+
 }
 
 ul li span {
