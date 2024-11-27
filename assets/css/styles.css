@@ -89,8 +89,7 @@ ul li::before {
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(/assets/images/oval.png);
-    background-size: cover;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/319/319248.png");
     background-position: center;
     top: 12px;
     left: 8px;
