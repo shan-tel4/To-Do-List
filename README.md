@@ -79,7 +79,7 @@ The To-Do List is a simple yet powerful task management application that allows 
 - **CSS**: Passed the W3C CSS Validator without errors.
 - **Lighthouse**: Scored 99 on Lighthouse for performance and accessibility.
 
-![Lighthouse Report](
+![Lighthouse Report](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/Lighthouse%20to-do%20list.png?raw=true)
 
 ![HTML]()
 
