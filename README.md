@@ -1,6 +1,6 @@
 # To-Do List
 
-Welcome to the **To-Do List** project! This is a web-based application designed to help users organize and manage their tasks. Built as part of a coding challenge, this project demonstrates the power of HTML, CSS, and JavaScript for creating dynamic, interactive applications.
+Welcome to the **To-Do List** project! This is a web-based application designed to help users organize and manage their tasks. This project demonstrates the power of HTML, CSS, and JavaScript for creating dynamic, interactive applications.
 
 [Visit Deployed Website](https://shan-tel4.github.io/to-do-list/)
 
