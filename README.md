@@ -42,7 +42,7 @@ The To-Do List is a simple yet powerful task management application that allows 
 - **Persistent Data**: The tasks are stored in the browser's localStorage so they persist even when the page is refreshed.  
 - **Responsive Design**: The application is fully responsive and works well on both desktop and mobile devices.
 
-![Responsive Design](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/responsive.png?raw=true)
+![Responsive Design](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/responsive%20design.png?raw=true)
 
 ---
 
