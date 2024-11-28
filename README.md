@@ -44,6 +44,10 @@ The To-Do List is a simple yet powerful task management application that allows 
 
 ![Responsive Design](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/responsive%20design.png?raw=true)
 
+![html validator](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/to-do%20list%20html.png?raw=true)
+
+![css validator](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/to-do%20list%20css.png?raw=true)
+
 ---
 
 ## Technologies Used
