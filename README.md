@@ -11,7 +11,7 @@ Welcome to the **To-Do List** web application! This simple and elegant tool is d
 
 ## Preview 🌟
 
-![App Screenshot](screenshot.png)  
+![App Screenshot](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/To%20do%20list.png?raw=true)  
 *Add, manage, and complete your tasks effortlessly.*
 
 ## How to Use 🚀
