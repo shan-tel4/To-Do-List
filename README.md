@@ -28,11 +28,4 @@ Welcome to the **To-Do List** web application! This simple and elegant tool is d
 - **JavaScript**: Dynamic task management features.
 - **GitHub Pages**: Hosting for live deployment.
 
-## Installation 🛠️
-
-If you want to run the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shan-tel4/to-do-list.git
 
