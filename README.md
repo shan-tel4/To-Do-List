@@ -15,7 +15,7 @@ Welcome to the **To-Do List** project! This is a web-based application designed 
 3. [Technologies Used](#technologies-used)
 4. [How to Use](#how-to-use)
 5. [Testing](#testing)
-6. [Contributing](#contributing)
+6. [Contributions](#contributions)
 7. [Acknowledgments](#acknowledgments)
 8. [License](#license)
 
@@ -91,7 +91,7 @@ The To-Do List is a simple yet powerful task management application that allows 
 
 ---
 
-## Contributing
+## Contributions
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. Be sure to adhere to best practices for code quality and documentation.
 
