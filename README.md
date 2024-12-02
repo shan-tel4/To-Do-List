@@ -36,6 +36,9 @@ The To-Do List is a simple yet powerful task management application that allows 
 
 ## Colour Palette:
 
+
+![Color palette](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/Colour%20Palette.png?raw=true)
+
 Typography: "Poppins" is used throughout for readability, while the logo features the "Pacifico" font for a distinct, creative touch.
 
 ## Wireframes
