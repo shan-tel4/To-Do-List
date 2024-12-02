@@ -4,7 +4,7 @@ Welcome to the **To-Do List** project! This is a web-based application designed 
 
 [Visit Deployed Website](https://shan-tel4.github.io/to-do-list/)
 
-![To-Do List]()
+![To-Do List](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/To%20Do%20List%20Home%20Page.png?raw=true)
 
 ---
 
