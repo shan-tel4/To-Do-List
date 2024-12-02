@@ -118,8 +118,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/shan-tel4/to-do-list/blob/main/LICENSE) file for details.
 
 
