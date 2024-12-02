@@ -4,7 +4,7 @@ Welcome to the **To-Do List** project! This is a web-based application designed 
 
 [Visit Deployed Website](https://shan-tel4.github.io/to-do-list/)
 
-![To-Do List](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/To%20do%20list.png?raw=true)
+![To-Do List]()
 
 ---
 
@@ -42,7 +42,7 @@ The To-Do List is a simple yet powerful task management application that allows 
 - **Persistent Data**: The tasks are stored in the browser's localStorage so they persist even when the page is refreshed.  
 - **Responsive Design**: The application is fully responsive and works well on both desktop and mobile devices.
 
-![Responsive Design](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/responsive%20design.png?raw=true)
+![Responsive Design]()
 
 ---
 
@@ -79,11 +79,11 @@ The To-Do List is a simple yet powerful task management application that allows 
 - **CSS**: Passed the W3C CSS Validator without errors.
 - **Lighthouse**: Scored 99 on Lighthouse for performance and accessibility.
 
-![Lighthouse Report](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/Lighthouse%20to-do%20list.png?raw=true)
+![Lighthouse Report]()
 
-![html validator](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/to-do%20list%20html.png?raw=true)
+![html validator]()
 
-![css validator](https://github.com/shan-tel4/to-do-list/blob/main/assets/images/to-do%20list%20css.png?raw=true)
+![css validator]()
 
 
 ### Known Issues:
