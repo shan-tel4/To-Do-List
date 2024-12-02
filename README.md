@@ -1,4 +1,4 @@
-# To-Do List
+# To-Do List HTML CSS JavaScript
 
 Welcome to the **To-Do List** project! This is a web-based application designed to help users organize and manage their tasks. This project demonstrates the power of HTML, CSS, and JavaScript for creating dynamic, interactive applications.
 
