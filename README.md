@@ -33,6 +33,17 @@ The To-Do List is a simple yet powerful task management application that allows 
 
 ---
 
+
+Colour Palette:
+
+Typography: "Poppins" is used throughout for readability, while the logo features the "Pacifico" font for a distinct, creative touch.
+
+Wireframes
+
+Mobile-first wireframes were created to ensure a responsive design with google slide. They showcase the structure and layout for an optimal experience on devices of all sizes.
+
+---
+
 ## Features
 
 - **Task Creation**: Add new tasks to your to-do list.  
